@@ -146,7 +146,6 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
-
 <details id=4 open>
 <summary><h2>Step 4: Apply suggested changes</h2></summary>
 
